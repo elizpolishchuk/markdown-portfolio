@@ -1,3 +1,3 @@
-[x] Potatoooo!
-[ ] Frog
-[x] Big_fat_car
+- Potatoooo!
+- Frog
+- Big_fat_car
